@@ -5,4 +5,4 @@
 layout: single
 author_profile: true
 ---
-#Curriculum Vitae- Mr. Japheth Karumwa"
+Curriculum Vitae- Mr. Japheth Karumwa"
